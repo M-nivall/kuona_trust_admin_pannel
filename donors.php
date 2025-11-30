@@ -22,7 +22,6 @@ include('dbconnect.php')
   <link rel="stylesheet" href="css/vertical-layout-light/style.css">
   <!-- endinject -->
 </head>
-
 <body>
   <div class="container-scroller">
     <!-- partial:../../partials/_navbar.html -->
