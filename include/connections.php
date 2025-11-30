@@ -5,5 +5,5 @@ if(!$con){
 	echo 'could not connect to the database';
 }
 
-$siteName='Kuonatrust'
+$siteName='Kuona Trust'
 ?>
