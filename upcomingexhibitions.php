@@ -130,5 +130,4 @@ include('include/connections.php');
     }
   </script>
 </body>
-
 </html>
